@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<head>
+    <meta name=author content=prathamesh>
+    <meta name=description content="Shopping">
+</head>
+<body>
+    <body background="C:\Users\prath_1y5q7mq\Pictures\Saved Pictures\cake12.jfif">
+    <font face="Segoe Script" size="20"><b><center>Cake House</font></center></body><b>
+        <font face="ink free" size="6"><b><center>Fulfill your cravings!</center></font><br></b>
+    <hr><font face="Century Gothic" size="4"><p><b>Greetings from Cakehouse!<br>
+        Here you can order your favorite flavoured cake or customize you cake as you wish!<br>
+        Order your cake Now!<br><br></font>
+ <font face="Segoe Print" size="4">Our Cakes:<br>
+    <ol type="1">
+        <li>Rasmalai</li>
+        <li>Choco chip</li>
+        <li>Black current</li>
+        <li>Butterscotch</li>
+        <li>Mango Delight</li>
+    </ol></font>
+    <font face="Bookman Old Style" size="4">Timings:<br>
+    <u>Monday to Friday: 10:30am to 10:00pm<br>
+    Saturday and Sunday:10:00am to 11:00pm<br></p></u></font>
+    <font face="Century Gothic" size="4">
+        Order Here <a href="page2.html">Click here</a><br><br></font>
+        <br><br><br>
+</body>
+</html>
